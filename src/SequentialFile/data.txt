@@ -1,7 +1,0 @@
-P-087 Jorge CS 1 2
-P-102 Andrea CS 5 3
-P-231 Josimar CS 5 4
-P-250 Carlos CS 7 5
-P-312 Mabel CS 3 6
-P-362 Cynthia CS 3 7
-P-982 Saulo CS 9 0
