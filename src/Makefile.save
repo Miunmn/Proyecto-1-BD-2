@@ -1,0 +1,23 @@
+LIBS=-lsfml-graphics -lsfml-window -lsfml-system
+
+default:
+	@echo "** Building the game"
+	g++ -c "main.cpp" -o main.o
+	g++ main.o sfml-app  $(LIBS)
+
+run:
+	@echo running
+	
+
+clean:
+	@echo "** Removing object files and executable..."
+	rm -f thegame
+
+install:
+	@echo '** Installing...'
+	cp thegame /usr/bin
+
+uninstall:
+	@echo '** Uninstalling...'
+	rm thegame
+

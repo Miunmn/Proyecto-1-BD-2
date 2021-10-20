@@ -1,0 +1,1001 @@
+Rank,Reg_rank,University,Score,Alumni 
+0,1,harvard university,1,100.0
+1,2,stanford university,2,45.2
+2,3,university of cambridge,1,80.7
+3,4,massachusetts institute of technology (mit),3,72.0
+4,5,university of california berkeley,4,67.1
+5,6,princeton university,5,59.6
+6,7,university of oxford,2,48.9
+7,8,columbia university,6,61.4
+8,9,california institute of technology,7,52.3
+9,10,university of chicago,8,59.6
+10,11,university of california los angeles,9-10,28.6
+11,11,yale university,9-10,47.6
+12,13,cornell university,11,43.8
+13,14,university of washington,12,24.4
+14,15,university college london,3,26.9
+15,16,johns hopkins university,13,36.8
+16,17,university of pennsylvania,14,31.2
+17,18,university of california san diego,15,19.4
+18,19,swiss federal institute of technology zurich,1,28.6
+19,20,university of california san francisco,16-17,0.0
+20,20,university of michigan-ann arbor,16-17,33.6
+21,22,washington university in st. louis,18,22.4
+22,23,imperial college london,4,13.7
+23,24,university of toronto,1,17.7
+24,25,the university of tokyo,1,37.6
+25,26,university of copenhagen,1,20.2
+26,27,university of wisconsin - madison,19,30.2
+27,28,duke university,20,14.8
+28,29,northwestern university,21,13.7
+29,30,new york university,22,28.6
+30,31,the university of edinburgh,5,27.5
+31,32,kyoto university,2,33.6
+32,33,the university of manchester,6,15.9
+33,33,university of north carolina at chapel hill,23,7.9
+34,35,rockefeller university,24,16.8
+35,35,university of british columbia,2,14.8
+36,37,university of paris-sud (paris 11),1,29.4
+37,38,karolinska institute,1,24.4
+38,38,university of colorado at boulder,25-26,12.5
+39,38,university of illinois at urbana-champaign,25-26,27.5
+40,41,the university of melbourne,1,15.9
+41,41,university of minnesota twin cities,27,28.0
+42,43,tsinghua university,1,9.7
+43,44,sorbonne university,2,35.6
+44,45,the university of texas at austin,28,25.1
+45,46,university of maryland college park,29,18.6
+46,47,heidelberg university,1,19.4
+47,48,university of california santa barbara,30,14.8
+48,49,the university of texas southwestern medical center at dallas,31,18.6
+49,49,utrecht university,1,22.4
+50,51,king's college london,7,21.0
+51,52,university of munich,2,26.9
+52,53,peking university,2,11.2
+53,54,the university of queensland,2,12.5
+54,55,university of southern california,32-33,0.0
+55,55,vanderbilt university,32-33,14.8
+56,57,technical university munich,3,36.8
+57,58,university of geneva,2,29.7
+58,59,university of oslo,1,26.9
+59,60,aarhus university,2,11.2
+60,61,university of zurich,3,0.0
+61,62,uppsala university,2,15.9
+62,63,university of helsinki,1,16.8
+63,64,university of bristol,8,5.6
+64,65,university of groningen,2,13.7
+65,66,ghent university,1,0.0
+66,67,national university of singapore,1,0.0
+67,68,erasmus university rotterdam,3,0.0
+68,68,the university of texas m. d. anderson cancer center,34,0.0
+69,70,university of bonn,4,23.8
+70,70,zhejiang university,3,0.0
+71,72,purdue university - west lafayette,35,12.5
+72,73,monash university,3,0.0
+73,73,nanyang technological university,2,0.0
+74,73,stockholm university,3,22.4
+75,76,boston university,36,11.2
+76,76,the australian national university,4,13.7
+77,78,swiss federal institute of technology lausanne,4,0.0
+78,79,ecole normale superieure - paris,3,48.2
+79,80,university of california irvine,37,0.0
+80,80,university of sydney,5,13.7
+81,82,leiden university,4,15.9
+82,82,shanghai jiao tong university,4,0.0
+83,84,brown university,38,14.8
+84,85,ku leuven,2,0.0
+85,85,technion-israel institute of technology,1,23.8
+86,87,moscow state university,1,40.8
+87,87,university of basel,5,23.1
+88,89,university of pittsburgh pittsburgh campus,39,17.7
+89,90,mcgill university,3-4,32.2
+90,90,mcmaster university,3-4,19.4
+91,90,nagoya university,3,29.1
+92,90,university of california davis,40,0.0
+93,94,the university of new south wales,6,0.0
+94,95,carnegie mellon university,41-43,31.2
+95,95,rice university,41-43,15.9
+96,95,university of florida,41-43,16.8
+97,98,pennsylvania state university - university park,44,9.7
+98,99,the university of western australia,7,13.7
+99,100,the ohio state university - columbus,45,11.2
+100,101-150,aix marseille university,4-7,12.5
+101,101-150,arizona state university,46-58,0.0
+102,101-150,baylor college of medicine,46-58,0.0
+103,101-150,cardiff university,9-16,0.0
+104,101-150,case western reserve university,46-58,32.2
+105,101-150,emory university,46-58,0.0
+106,101-150,fudan university,5-8,0.0
+107,101-150,georgia institute of technology,46-58,12.5
+108,101-150,huazhong university of science and technology,5-8,0.0
+109,101-150,icahn school of medicine at mount sinai,46-58,0.0
+110,101-150,indiana university bloomington,46-58,9.7
+111,101-150,king abdulaziz university,1,0.0
+112,101-150,lund university,4,19.4
+113,101-150,mayo medical school,46-58,0.0
+114,101-150,michigan state university,46-58,7.9
+115,101-150,norwegian university of science and technology - ntnu,2,12.5
+116,101-150,radboud university nijmegen,5-7,16.8
+117,101-150,rutgers the state university of new jersey - new brunswick,46-58,7.9
+118,101-150,seoul national university,1,0.0
+119,101-150,sun yat-sen university,5-8,0.0
+120,101-150,technical university of denmark,3,0.0
+121,101-150,the chinese university of hong kong,1-2,0.0
+122,101-150,the hebrew university of jerusalem,2-3,32.2
+123,101-150,the university of adelaide,8,13.7
+124,101-150,the university of hong kong,1-2,0.0
+125,101-150,the university of sheffield,9-16,17.7
+126,101-150,tohoku university,4-5,14.8
+127,101-150,tokyo institute of technology,4-5,12.5
+128,101-150,université grenoble alpes,4-7,12.5
+129,101-150,university of alberta,5,11.2
+130,101-150,university of amsterdam,5-7,0.0
+131,101-150,university of arizona,46-58,14.8
+132,101-150,university of bern,6,12.5
+133,101-150,university of birmingham,9-16,17.7
+134,101-150,university of california santa cruz,46-58,0.0
+135,101-150,university of frankfurt,5-7,30.2
+136,101-150,university of freiburg,5-7,22.4
+137,101-150,university of goettingen,5-7,29.7
+138,101-150,university of leeds,9-16,16.8
+139,101-150,university of liverpool,9-16,15.9
+140,101-150,university of nottingham,9-16,20.2
+141,101-150,university of sao paulo,1,0.0
+142,101-150,university of science and technology of china,5-8,0.0
+143,101-150,university of southampton,9-16,0.0
+144,101-150,university of strasbourg,4-7,28.0
+145,101-150,university of utah,46-58,0.0
+146,101-150,university of warwick,9-16,13.7
+147,101-150,university paris diderot - paris 7,4-7,10.6
+148,101-150,vu university amsterdam,5-7,0.0
+149,101-150,weizmann institute of science,2-3,17.7
+150,151-200,catholic university of louvain,3-4,9.7
+151,151-200,central south university,9-17,0.0
+152,151-200,delft university of technology,8-9,11.2
+153,151-200,harbin institute of technology,9-17,0.0
+154,151-200,hokkaido university,6-7,11.2
+155,151-200,king saud university,2,0.0
+156,151-200,london school of economics and political science,17-21,23.8
+157,151-200,nanjing university,9-17,0.0
+158,151-200,national taiwan university,1,11.2
+159,151-200,osaka university,6-7,7.9
+160,151-200,queen mary university of london,17-21,16.8
+161,151-200,sapienza university of rome,1-3,9.7
+162,151-200,sichuan university,9-17,0.0
+163,151-200,soochow university (china),9-17,0.0
+164,151-200,southeast university,9-17,0.0
+165,151-200,sungkyunkwan university,2,0.0
+166,151-200,tel aviv university,4,0.0
+167,151-200,texas a&m university,59-66,0.0
+168,151-200,the university of calgary,6-9,0.0
+169,151-200,the university of glasgow,17-21,5.6
+170,151-200,trinity college dublin,1,13.7
+171,151-200,tufts university,59-66,18.6
+172,151-200,université libre de bruxelles (ulb),3-4,19.4
+173,151-200,university of barcelona,1,0.0
+174,151-200,university of california riverside,59-66,12.5
+175,151-200,university of cologne,8-10,0.0
+176,151-200,university of electronic science and technology of china,9-17,0.0
+177,151-200,university of exeter,17-21,0.0
+178,151-200,university of gothenburg,5,0.0
+179,151-200,university of lausanne,7,12.5
+180,151-200,university of lisbon,1,0.0
+181,151-200,university of massachusetts amherst,59-66,13.7
+182,151-200,university of massachusetts medical school - worcester,59-66,0.0
+183,151-200,university of milan,1-3,16.8
+184,151-200,university of missouri - columbia,59-66,7.9
+185,151-200,university of montpellier,8-9,9.7
+186,151-200,university of montreal,6-9,11.2
+187,151-200,university of muenster,8-10,19.4
+188,151-200,university of ottawa,6-9,0.0
+189,151-200,university of paris descartes (paris 5),8-9,10.6
+190,151-200,university of pisa,1-3,21.0
+191,151-200,university of rochester,59-66,31.2
+192,151-200,university of sussex,17-21,0.0
+193,151-200,university of tuebingen,8-10,22.4
+194,151-200,university of vienna,1,11.2
+195,151-200,university of virginia,59-66,0.0
+196,151-200,university of wageningen,8-9,0.0
+197,151-200,university of waterloo,6-9,0.0
+198,151-200,wuhan university,9-17,0.0
+199,151-200,xian jiaotong university,9-17,0.0
+200,201-300,aalborg university,4,0.0
+201,201-300,autonomous university of barcelona,2-5,0.0
+202,201-300,beihang university,18-27,0.0
+203,201-300,beijing normal university,18-27,15.9
+204,201-300,charles university in prague,1,0.0
+205,201-300,city university of hong kong,3-5,0.0
+206,201-300,claude bernard university lyon 1,10-13,9.7
+207,201-300,colorado state university,67-94,0.0
+208,201-300,complutense university of madrid,2-5,17.7
+209,201-300,curtin university,9-15,0.0
+210,201-300,dalhousie university,10-12,12.5
+211,201-300,dalian university of technology,18-27,0.0
+212,201-300,deakin university,9-15,0.0
+213,201-300,durham university,22-26,0.0
+214,201-300,florida state university,67-94,0.0
+215,201-300,george mason university,67-94,0.0
+216,201-300,iowa state university,67-94,0.0
+217,201-300,james cook university,9-15,0.0
+218,201-300,jilin university,18-27,0.0
+219,201-300,karlsruhe institute of technology (kit),11-21,0.0
+220,201-300,king abdullah university of science and technology,3,0.0
+221,201-300,korea advanced institute of science and technology,3-5,0.0
+222,201-300,korea university,3-5,0.0
+223,201-300,kth royal institute of technology,6,0.0
+224,201-300,kyushu university,8-9,0.0
+225,201-300,laval university,10-12,0.0
+226,201-300,london school of hygiene & tropical medicine,22-26,5.6
+227,201-300,maastricht university,10,0.0
+228,201-300,macquarie university,9-15,0.0
+229,201-300,medical university of vienna,2-3,7.9
+230,201-300,nankai university,18-27,0.0
+231,201-300,national autonomous university of mexico,1,12.5
+232,201-300,newcastle university,22-26,0.0
+233,201-300,north carolina state university - raleigh,67-94,0.0
+234,201-300,northeastern university (boston),67-94,0.0
+235,201-300,oregon health and science university,67-94,0.0
+236,201-300,oregon state university,67-94,7.9
+237,201-300,paul sabatier university (toulouse 3),10-13,0.0
+238,201-300,polytechnic institute of milan,4-8,5.6
+239,201-300,rwth aachen university,11-21,0.0
+240,201-300,shandong university,18-27,0.0
+241,201-300,south china university of technology,18-27,0.0
+242,201-300,stony brook university,67-94,0.0
+243,201-300,the george washington university,67-94,11.2
+244,201-300,the hong kong polytechnic university,3-5,0.0
+245,201-300,the hong kong university of science and technology,3-5,0.0
+246,201-300,the university of auckland,1,13.7
+247,201-300,the university of georgia,67-94,0.0
+248,201-300,the university of texas health science center at houston,67-94,0.0
+249,201-300,tianjin university,18-27,0.0
+250,201-300,tongji university,18-27,0.0
+251,201-300,tu dresden,11-21,0.0
+252,201-300,university of aberdeen,22-26,0.0
+253,201-300,university of alabama at birmingham,67-94,0.0
+254,201-300,university of antwerp,5-7,0.0
+255,201-300,university of bologna,4-8,0.0
+256,201-300,university of bordeaux,10-13,0.0
+257,201-300,university of buenos aires,1,12.5
+258,201-300,university of cape town,1-2,17.7
+259,201-300,university of connecticut,67-94,11.2
+260,201-300,university of delaware,67-94,9.7
+261,201-300,university of duesseldorf,11-21,11.2
+262,201-300,university of east anglia,22-26,19.4
+263,201-300,university of erlangen-nuremberg,11-21,0.0
+264,201-300,university of florence,4-8,0.0
+265,201-300,university of granada,2-5,0.0
+266,201-300,university of hamburg,11-21,9.7
+267,201-300,university of hawaii at manoa,67-94,0.0
+268,201-300,university of houston,67-94,0.0
+269,201-300,university of illinois at chicago,67-94,0.0
+270,201-300,university of innsbruck,2-3,0.0
+271,201-300,university of iowa,67-94,0.0
+272,201-300,university of kansas,67-94,17.7
+273,201-300,university of kiel,11-21,7.9
+274,201-300,university of leipzig,11-21,9.7
+275,201-300,university of liege,5-7,5.6
+276,201-300,university of mainz,11-21,0.0
+277,201-300,university of maryland baltimore,67-94,0.0
+278,201-300,university of miami,67-94,0.0
+279,201-300,university of nebraska - lincoln,67-94,15.9
+280,201-300,university of padua,4-8,0.0
+281,201-300,university of south florida,67-94,0.0
+282,201-300,university of tasmania,9-15,0.0
+283,201-300,university of technology sydney,9-15,0.0
+284,201-300,university of tennessee - knoxville,67-94,9.7
+285,201-300,university of the witwatersrand,1-2,17.7
+286,201-300,university of toulouse 1,10-13,0.0
+287,201-300,university of tsukuba,8-9,0.0
+288,201-300,university of turin,4-8,13.7
+289,201-300,university of ulm,11-21,0.0
+290,201-300,university of valencia,2-5,0.0
+291,201-300,university of wollongong,9-15,0.0
+292,201-300,university of wuerzburg,11-21,19.4
+293,201-300,virginia commonwealth university,67-94,9.7
+294,201-300,virginia polytechnic institute and state university,67-94,11.2
+295,201-300,vrije universiteit brussel (vub),5-7,13.7
+296,201-300,western university,10-12,0.0
+297,201-300,xiamen university,18-27,0.0
+298,201-300,yeshiva university,67-94,0.0
+299,201-300,yonsei university,3-5,0.0
+300,301-400,aalto university,2-4,0.0
+301,301-400,autonomous university of madrid,6-7,0.0
+302,301-400,beijing institute of technology,28-39,0.0
+303,301-400,brandeis university,95-116,19.4
+304,301-400,cairo university,1,18.6
+305,301-400,capital medical university,28-39,0.0
+306,301-400,chalmers university of technology,7-9,0.0
+307,301-400,china agricultural university,28-39,0.0
+308,301-400,china medical university (taichung),2-3,0.0
+309,301-400,chongqing university,28-39,0.0
+310,301-400,dartmouth college,95-116,16.8
+311,301-400,drexel university,95-116,0.0
+312,301-400,east china university of science and technology,28-39,0.0
+313,301-400,ecole normale superieure - lyon,14-19,16.8
+314,301-400,ecole polytechnique,14-19,21.7
+315,301-400,eindhoven university of technology,11,0.0
+316,301-400,espci paristech,14-19,5.6
+317,301-400,federal university of rio de janeiro,2-4,0.0
+318,301-400,georgetown university,95-116,0.0
+319,301-400,griffith university,16-21,0.0
+320,301-400,hannover medical school,22-27,0.0
+321,301-400,hanyang university,6-8,0.0
+322,301-400,hunan university,28-39,0.0
+323,301-400,indiana university-purdue university at indianapolis,95-116,0.0
+324,301-400,jagiellonian university,1,9.7
+325,301-400,kansas state university,95-116,0.0
+326,301-400,keio university,10,0.0
+327,301-400,kyung hee university,6-8,0.0
+328,301-400,la trobe university,16-21,0.0
+329,301-400,lancaster university,27-34,0.0
+330,301-400,lanzhou university,28-39,0.0
+331,301-400,linkoping university,7-9,0.0
+332,301-400,louisiana state university - baton rouge,95-116,0.0
+333,301-400,nanjing university of science and technology,28-39,0.0
+334,301-400,national and kapodistrian university of athens,1,0.0
+335,301-400,national cheng kung university,2-3,0.0
+336,301-400,northwestern polytechnical university,28-39,0.0
+337,301-400,paris dauphine university (paris 9),14-19,21.0
+338,301-400,pompeu fabra university,6-7,0.0
+339,301-400,queen's university,13-18,0.0
+340,301-400,queen's university belfast,27-34,17.7
+341,301-400,queensland university of technology,16-21,0.0
+342,301-400,rensselaer polytechnic institute,95-116,12.5
+343,301-400,rmit university,16-21,0.0
+344,301-400,saint petersburg state university,2,25.1
+345,301-400,shenzhen university,28-39,0.0
+346,301-400,simon fraser university,13-18,0.0
+347,301-400,swedish university of agricultural sciences,7-9,0.0
+348,301-400,swinburne university of technology,16-21,0.0
+349,301-400,technical university of berlin,22-27,13.7
+350,301-400,temple university,95-116,0.0
+351,301-400,the university of dundee,27-34,0.0
+352,301-400,the university of new mexico - albuquerque,95-116,0.0
+353,301-400,the university of reading,27-34,0.0
+354,301-400,the university of texas at dallas,95-116,13.7
+355,301-400,the university of texas health science center at san antonio,95-116,0.0
+356,301-400,ulsan national institute of science and technology,6-8,0.0
+357,301-400,unesp,2-4,0.0
+358,301-400,university at buffalo the state university of new york,95-116,0.0
+359,301-400,university college dublin,2,0.0
+360,301-400,university of bergen,3,0.0
+361,301-400,university of bochum,22-27,0.0
+362,301-400,university of campinas,2-4,0.0
+363,301-400,university of central florida,95-116,0.0
+364,301-400,university of cincinnati,95-116,0.0
+365,301-400,university of colorado at denver,95-116,0.0
+366,301-400,university of duisburg-essen,22-27,0.0
+367,301-400,university of guelph,13-18,0.0
+368,301-400,university of jena,22-27,0.0
+369,301-400,university of kentucky,95-116,9.7
+370,301-400,university of leicester,27-34,0.0
+371,301-400,university of lille,14-19,0.0
+372,301-400,university of lorraine,14-19,11.2
+373,301-400,university of malaya,1,0.0
+374,301-400,university of manitoba,13-18,0.0
+375,301-400,university of naples federico ii,9-10,0.0
+376,301-400,university of notre dame,95-116,12.5
+377,301-400,university of oregon,95-116,5.6
+378,301-400,university of otago,2-3,0.0
+379,301-400,university of oulu,2-4,11.2
+380,301-400,university of pavia,9-10,0.0
+381,301-400,university of porto,2,0.0
+382,301-400,university of saskatchewan,13-18,7.9
+383,301-400,university of science and technology beijing,28-39,0.0
+384,301-400,university of south carolina - columbia,95-116,0.0
+385,301-400,university of southern denmark,5,0.0
+386,301-400,university of st andrews,27-34,9.7
+387,301-400,university of stuttgart,22-27,18.6
+388,301-400,university of surrey,27-34,0.0
+389,301-400,university of tartu,1,0.0
+390,301-400,university of tehran,1,12.5
+391,301-400,university of turku,2-4,0.0
+392,301-400,university of vermont,95-116,13.7
+393,301-400,university of victoria,13-18,0.0
+394,301-400,university of western sydney,16-21,0.0
+395,301-400,university of york,27-34,0.0
+396,301-400,victoria university of wellington,2-3,11.2
+397,301-400,vienna university of technology,4,0.0
+398,301-400,washington state university,95-116,0.0
+399,301-400,wuhan university of technology,28-39,0.0
+400,401-500,aristotle university of thessaloniki,2,0.0
+401,401-500,bar-ilan university,5-6,0.0
+402,401-500,beijing university of chemical technology,40-58,0.0
+403,401-500,ben-gurion university of the negev,5-6,0.0
+404,401-500,boston college,117-137,0.0
+405,401-500,brigham young university,117-137,7.9
+406,401-500,catholic university of the sacred heart,11-16,0.0
+407,401-500,chiba university,11-14,0.0
+408,401-500,china university of geosciences (wuhan),40-58,0.0
+409,401-500,city university of new york city college,117-137,29.1
+410,401-500,clemson university,117-137,0.0
+411,401-500,cuny graduate school and university center,117-137,0.0
+412,401-500,federal university of minas gerais,5-6,0.0
+413,401-500,federal university of rio grande do sul,5-6,0.0
+414,401-500,flinders university,22-23,15.9
+415,401-500,florida international university,117-137,0.0
+416,401-500,fuzhou university,40-58,0.0
+417,401-500,harbin engineering university,40-58,0.0
+418,401-500,huazhong agricultural university,40-58,0.0
+419,401-500,indian institute of science,1,0.0
+420,401-500,istanbul university,1,18.6
+421,401-500,jiangsu university,40-58,0.0
+422,401-500,jinan university,40-58,0.0
+423,401-500,king fahd university of petroleum & minerals,4,0.0
+424,401-500,kobe university,11-14,14.8
+425,401-500,kyungpook national university,9-11,0.0
+426,401-500,mahidol university,1,0.0
+427,401-500,medical university of innsbruck,5-6,0.0
+428,401-500,medical university of south carolina,117-137,0.0
+429,401-500,mines paristech,20-21,12.5
+430,401-500,moscow institute of physics and technology,3-4,21.7
+431,401-500,nanchang university,40-58,0.0
+432,401-500,nanjing agricultural university,40-58,0.0
+433,401-500,nanjing medical university,40-58,0.0
+434,401-500,nanjing tech university,40-58,0.0
+435,401-500,nanjing university of aeronautics and astronautics,40-58,0.0
+436,401-500,nanjing university of information science & technology,40-58,0.0
+437,401-500,new university of lisbon,3-4,0.0
+438,401-500,northeastern university (shenyang),40-58,0.0
+439,401-500,novosibirsk state university,3-4,13.7
+440,401-500,okayama university,11-14,0.0
+441,401-500,peking union medical college,40-58,0.0
+442,401-500,pohang university of science and technology,9-11,0.0
+443,401-500,polytechnic university of valencia,8-13,0.0
+444,401-500,pusan national university,9-11,0.0
+445,401-500,qingdao university,40-58,0.0
+446,401-500,saint louis university,117-137,0.0
+447,401-500,scuola normale superiore - pisa,11-16,16.8
+448,401-500,shanghai university,40-58,0.0
+449,401-500,sharif university of technology,2-3,15.9
+450,401-500,southern university of science and technology,40-58,0.0
+451,401-500,stellenbosch university,3-5,0.0
+452,401-500,stockholm school of economics,10-11,0.0
+453,401-500,swansea university,35-36,0.0
+454,401-500,tehran university of medical sciences,2-3,0.0
+455,401-500,the university of newcastle australia,22-23,0.0
+456,401-500,thomas jefferson university,117-137,0.0
+457,401-500,tokyo university of science,11-14,12.5
+458,401-500,tulane university,117-137,0.0
+459,401-500,umea university,10-11,0.0
+460,401-500,university at albany (state university of new york),117-137,0.0
+461,401-500,university college cork,3,0.0
+462,401-500,university of bath,35-36,0.0
+463,401-500,university of belgrade,1,0.0
+464,401-500,university of california merced,117-137,0.0
+465,401-500,university of canterbury,4,0.0
+466,401-500,university of chile,1,5.6
+467,401-500,university of eastern finland,5,0.0
+468,401-500,university of fribourg,8,0.0
+469,401-500,university of genoa,11-16,0.0
+470,401-500,university of graz,5-6,5.6
+471,401-500,university of halle-wittenberg,28-30,0.0
+472,401-500,university of iceland,1,0.0
+473,401-500,university of konstanz,28-30,0.0
+474,401-500,university of kwazulu-natal,3-5,0.0
+475,401-500,university of milan - bicocca,11-16,0.0
+476,401-500,university of minho,3-4,0.0
+477,401-500,university of montana - missoula,117-137,0.0
+478,401-500,university of north texas,117-137,0.0
+479,401-500,university of oklahoma - norman,117-137,0.0
+480,401-500,university of oviedo,8-13,0.0
+481,401-500,university of perugia,11-16,0.0
+482,401-500,university of potsdam,28-30,0.0
+483,401-500,university of pretoria,3-5,0.0
+484,401-500,university of seville,8-13,0.0
+485,401-500,university of the balearic islands,8-13,0.0
+486,401-500,university of the basque country,8-13,0.0
+487,401-500,university of trento,11-16,0.0
+488,401-500,university of twente,12,0.0
+489,401-500,university of versailles saint-quentin-en-yvelines,20-21,0.0
+490,401-500,university of warsaw,2,13.7
+491,401-500,university of wisconsin - milwaukee,117-137,9.7
+492,401-500,university of wyoming,117-137,0.0
+493,401-500,university of zagreb,1,0.0
+494,401-500,university of zaragoza,8-13,0.0
+495,401-500,utah state university,117-137,13.7
+496,401-500,wake forest university,117-137,0.0
+497,401-500,wayne state university,117-137,0.0
+498,401-500,west virginia university,117-137,0.0
+499,401-500,zhengzhou university,40-58,0.0
+500,501-600,amirkabir university of technology,4-5,0.0
+501,501-600,auburn university,138-155,0.0
+502,501-600,australian catholic university,24-25,0.0
+503,501-600,baylor university,138-155,0.0
+504,501-600,beijing jiaotong university,59-72,0.0
+505,501-600,beijing university of technology,59-72,0.0
+506,501-600,bielefeld university,31-43,0.0
+507,501-600,brunel university,37-43,0.0
+508,501-600,catholic university of chile,2,0.0
+509,501-600,chang gung university,4-7,0.0
+510,501-600,chung-ang university,12-15,0.0
+511,501-600,comsats university islamabad,1,0.0
+512,501-600,donghua university,59-72,0.0
+513,501-600,east china normal university,59-72,0.0
+514,501-600,eotvos lorand university,1,11.2
+515,501-600,ewha womans university,12-15,0.0
+516,501-600,federal university of parana,7,0.0
+517,501-600,georgia state university,138-155,0.0
+518,501-600,gyeongsang national university,12-15,0.0
+519,501-600,hefei university of technology,59-72,0.0
+520,501-600,heriot-watt university,37-43,0.0
+521,501-600,hiroshima university,15-17,0.0
+522,501-600,huazhong normal university,59-72,0.0
+523,501-600,humanitas university,17-24,0.0
+524,501-600,indian institute of technology madras,2,0.0
+525,501-600,kent state university,138-155,0.0
+526,501-600,macau university of science and technology,1,0.0
+527,501-600,medical university of graz,7,0.0
+528,501-600,memorial university of newfoundland,19-20,0.0
+529,501-600,mississippi state university,138-155,0.0
+530,501-600,montana state university,138-155,0.0
+531,501-600,national chiao tung university,4-7,0.0
+532,501-600,national polytechnic institute,2,0.0
+533,501-600,national tsing hua university,4-7,12.5
+534,501-600,national university of defense technology,59-72,0.0
+535,501-600,national university of ireland galway,4,0.0
+536,501-600,national university of malaysia,2-4,0.0
+537,501-600,national yang ming university,4-7,0.0
+538,501-600,northern arizona university,138-155,0.0
+539,501-600,northwest a&f university,59-72,0.0
+540,501-600,ocean university of china,59-72,0.0
+541,501-600,oklahoma state university,138-155,0.0
+542,501-600,palacký university,2,0.0
+543,501-600,plymouth university,37-43,0.0
+544,501-600,polytechnic university of madrid,14-17,0.0
+545,501-600,polytechnic university of turin,17-24,0.0
+546,501-600,royal holloway university of london,37-43,0.0
+547,501-600,rush university,138-155,0.0
+548,501-600,saarland university,31-43,0.0
+549,501-600,san diego state university,138-155,0.0
+550,501-600,shanghaitech university,59-72,0.0
+551,501-600,southern medical university,59-72,0.0
+552,501-600,southern methodist university,138-155,11.2
+553,501-600,southwest university,59-72,0.0
+554,501-600,st george's hospital medical school,37-43,0.0
+555,501-600,state university of new york health science center at brooklyn,138-155,0.0
+556,501-600,tarbiat modares university,4-5,0.0
+557,501-600,technical university darmstadt,31-43,13.7
+558,501-600,technical university of braunschweig,31-43,12.5
+559,501-600,technical university of dortmund,31-43,0.0
+560,501-600,texas tech university,138-155,0.0
+561,501-600,the university of alabama - tuscaloosa,138-155,0.0
+562,501-600,the university of tokushima,15-17,13.7
+563,501-600,tilburg university,13,0.0
+564,501-600,università della svizzera italiana,9,0.0
+565,501-600,universitat jaume i,14-17,0.0
+566,501-600,universiti teknologi malaysia,2-4,0.0
+567,501-600,university of alaska - fairbanks,138-155,0.0
+568,501-600,university of arkansas at fayetteville,138-155,0.0
+569,501-600,university of bari,17-24,0.0
+570,501-600,university of bayreuth,31-43,0.0
+571,501-600,university of bremen,31-43,0.0
+572,501-600,university of coimbra,5,0.0
+573,501-600,university of essex,37-43,19.4
+574,501-600,university of ferrara,17-24,0.0
+575,501-600,university of giessen,31-43,0.0
+576,501-600,university of hannover,31-43,0.0
+577,501-600,university of jyvaskyla,6-7,0.0
+578,501-600,university of kent,37-43,13.7
+579,501-600,university of ljubljana,1,0.0
+580,501-600,university of maine,138-155,0.0
+581,501-600,university of marburg,31-43,7.9
+582,501-600,university of maryland baltimore county,138-155,0.0
+583,501-600,university of oldenburg,31-43,0.0
+584,501-600,university of regensburg,31-43,0.0
+585,501-600,university of roma - tor vergata,17-24,0.0
+586,501-600,university of rostock,31-43,0.0
+587,501-600,university of santiago compostela,14-17,0.0
+588,501-600,university of science malaysia,2-4,0.0
+589,501-600,university of siena,17-24,0.0
+590,501-600,university of south australia,24-25,0.0
+591,501-600,university of tampere,6-7,0.0
+592,501-600,university of ulsan,12-15,0.0
+593,501-600,university rovira i virgili,14-17,0.0
+594,501-600,verona university,17-24,0.0
+595,501-600,vita-salute san raffaele university,17-24,0.0
+596,501-600,waseda university,15-17,0.0
+597,501-600,yangzhou university,59-72,0.0
+598,501-600,york university,19-20,0.0
+599,501-600,zhejiang university of technology,59-72,0.0
+600,601-700,agh university of science and technology,3,0.0
+601,601-700,american university of beirut,1,0.0
+602,601-700,army medical university,73-90,0.0
+603,601-700,bangor university,44-46,11.2
+604,601-700,beijing forestry university,73-90,0.0
+605,601-700,brescia university,25-31,0.0
+606,601-700,centralesupelec,22-27,0.0
+607,601-700,china university of geosciences (beijing),73-90,0.0
+608,601-700,china university of mining and technology - xuzhou,73-90,0.0
+609,601-700,china university of petroleum (huadong),73-90,0.0
+610,601-700,chonbuk national university,16-21,0.0
+611,601-700,chonnam national university,16-21,0.0
+612,601-700,chulalongkorn university,2,0.0
+613,601-700,chungbuk national university,16-21,0.0
+614,601-700,chungnam national university,16-21,0.0
+615,601-700,colorado school of mines,156-171,0.0
+616,601-700,federal university of goiás,8-11,0.0
+617,601-700,federal university of santa catarina,8-11,0.0
+618,601-700,federal university of sao paulo,8-11,0.0
+619,601-700,ferdowsi university of mashhad,6,0.0
+620,601-700,graz university of technology,8-9,0.0
+621,601-700,grenoble institute of technology,22-27,0.0
+622,601-700,guangzhou medical university,73-90,0.0
+623,601-700,hasselt university,8,0.0
+624,601-700,hohai university,73-90,0.0
+625,601-700,hunan normal university,73-90,0.0
+626,601-700,indian institute of technology kanpur,3-4,0.0
+627,601-700,inha university,16-21,0.0
+628,601-700,international school for advanced studies,25-31,0.0
+629,601-700,jiangnan university,73-90,0.0
+630,601-700,johannes kepler university linz,8-9,0.0
+631,601-700,kitasato university,18-22,0.0
+632,601-700,lehigh university,156-171,0.0
+633,601-700,loyola university chicago,156-171,0.0
+634,601-700,masaryk university,3,0.0
+635,601-700,massey university,5,0.0
+636,601-700,medical college of wisconsin,156-171,0.0
+637,601-700,missouri university of science and technology,156-171,0.0
+638,601-700,nanjing normal university,73-90,0.0
+639,601-700,nanjing university of posts and telecommunications,73-90,0.0
+640,601-700,national central university,8,0.0
+641,601-700,national research nuclear university mephi,5,9.7
+642,601-700,national technical university of athens,3,0.0
+643,601-700,naval medical university,73-90,0.0
+644,601-700,northwest university,73-90,0.0
+645,601-700,north-west university,6-7,11.2
+646,601-700,norwegian university of life sciences,4-5,0.0
+647,601-700,old dominion university,156-171,0.0
+648,601-700,osaka city university,18-22,15.9
+649,601-700,polytechnic university of catalonia,18-21,0.0
+650,601-700,saitama university,18-22,14.8
+651,601-700,shanxi university,73-90,0.0
+652,601-700,shinshu university,18-22,0.0
+653,601-700,southwest jiaotong university,73-90,0.0
+654,601-700,syracuse university,156-171,0.0
+655,601-700,the university of texas at arlington,156-171,0.0
+656,601-700,the university of texas at san antonio,156-171,0.0
+657,601-700,the university of texas medical branch at galveston,156-171,0.0
+658,601-700,tianjin medical university,73-90,0.0
+659,601-700,tokyo medical and dental university,18-22,0.0
+660,601-700,universidade federal de pelotas,8-11,0.0
+661,601-700,university of auvergne,22-27,0.0
+662,601-700,university of aveiro,6,0.0
+663,601-700,university of burgundy,22-27,0.0
+664,601-700,university of calcutta,3-4,11.2
+665,601-700,university of canberra,26-27,0.0
+666,601-700,university of catania,25-31,0.0
+667,601-700,university of cordoba,18-21,0.0
+668,601-700,university of cyprus,1,0.0
+669,601-700,university of greifswald,44-46,0.0
+670,601-700,university of haifa,7,0.0
+671,601-700,university of idaho,156-171,0.0
+672,601-700,university of johannesburg,6-7,0.0
+673,601-700,university of l'aquila,25-31,0.0
+674,601-700,university of limerick,5,0.0
+675,601-700,university of louisville,156-171,0.0
+676,601-700,university of luebeck,44-46,0.0
+677,601-700,university of macau,2,0.0
+678,601-700,university of magdeburg,44-46,0.0
+679,601-700,university of nantes,22-27,0.0
+680,601-700,university of nebraska medical center,156-171,0.0
+681,601-700,university of nevada - reno,156-171,0.0
+682,601-700,university of new england,26-27,0.0
+683,601-700,university of new hampshire - durham,156-171,0.0
+684,601-700,university of palermo,25-31,0.0
+685,601-700,university of parma,25-31,0.0
+686,601-700,university of portsmouth,44-46,0.0
+687,601-700,university of quebec montreal,21,0.0
+688,601-700,university of rennes 1,22-27,0.0
+689,601-700,university of rhode island,156-171,0.0
+690,601-700,university of salamanca,18-21,0.0
+691,601-700,university of strathclyde,44-46,0.0
+692,601-700,university of szeged,2,0.0
+693,601-700,university of trieste,25-31,0.0
+694,601-700,university of tromso,4-5,0.0
+695,601-700,university of vigo,18-21,0.0
+696,601-700,vilnius university,1,7.9
+697,601-700,wenzhou medical university,73-90,0.0
+698,601-700,xidian university,73-90,0.0
+699,601-700,yeungnam university,16-21,0.0
+700,701-800,adam mickiewicz university,4-5,0.0
+701,701-800,agroparistech,28-29,0.0
+702,701-800,ain shams university,2-3,0.0
+703,701-800,ajou university,22-26,0.0
+704,701-800,akdeniz university,2-7,0.0
+705,701-800,alexandria university,2-3,12.5
+706,701-800,amherst college,172-181,26.3
+707,701-800,aut university,6-7,0.0
+708,701-800,babeș-bolyai university,1,0.0
+709,701-800,beijing university of posts and telecommunications,91-106,0.0
+710,701-800,bilkent university,2-7,0.0
+711,701-800,carleton university,22-25,0.0
+712,701-800,catholic university of korea,22-26,0.0
+713,701-800,china medical university (shenyang),91-106,0.0
+714,701-800,china university of petroleum - beijing,91-106,0.0
+715,701-800,chongqing medical university,91-106,0.0
+716,701-800,copenhagen business school,6,0.0
+717,701-800,czech technical university in prague,4-5,5.6
+718,701-800,dokuz eylul university,2-7,0.0
+719,701-800,east carolina university,172-181,0.0
+720,701-800,edith cowan university,28-30,0.0
+721,701-800,erciyes university,2-7,0.0
+722,701-800,federal university of sao carlos,12-14,0.0
+723,701-800,federal university of viçosa,12-14,0.0
+724,701-800,free university of bozen-bolzano,32-36,0.0
+725,701-800,fujian agriculture forestry university,91-106,0.0
+726,701-800,hacettepe university,2-7,0.0
+727,701-800,hangzhou dianzi university,91-106,0.0
+728,701-800,harbin medical university,91-106,0.0
+729,701-800,hong kong baptist university,6-7,0.0
+730,701-800,huaqiao university,91-106,0.0
+731,701-800,indian institute of technology bombay,5-8,0.0
+732,701-800,indian institute of technology delhi,5-8,0.0
+733,701-800,indian institute of technology kharagpur,5-8,0.0
+734,701-800,juntendo university,23-29,0.0
+735,701-800,kanazawa university,23-29,0.0
+736,701-800,kangwon national university,22-26,0.0
+737,701-800,kaohsiung medical university,9-10,0.0
+738,701-800,khalifa university,1,0.0
+739,701-800,king juan carlos university,22-27,0.0
+740,701-800,konkuk university,22-26,0.0
+741,701-800,liverpool john moores university,47-50,0.0
+742,701-800,loughborough university,47-50,0.0
+743,701-800,medical university warsaw,4-5,0.0
+744,701-800,michigan technological university,172-181,7.9
+745,701-800,middle east technical university,2-7,0.0
+746,701-800,military medical university of the air force,91-106,0.0
+747,701-800,murdoch university,28-30,0.0
+748,701-800,nagasaki university,23-29,11.2
+749,701-800,national university of la plata,2,0.0
+750,701-800,ningbo university,91-106,0.0
+751,701-800,north china electric power university,91-106,0.0
+752,701-800,ohio university,172-181,13.7
+753,701-800,renmin university of china,91-106,0.0
+754,701-800,second university of naples,32-36,0.0
+755,701-800,sejong university,22-26,0.0
+756,701-800,shaanxi normal university,91-106,0.0
+757,701-800,shahid beheshti university of medical sciences,7,0.0
+758,701-800,south china agricultural university,91-106,0.0
+759,701-800,south china normal university,91-106,0.0
+760,701-800,stevens institute of technology,172-181,9.7
+761,701-800,suny upstate medical university,172-181,0.0
+762,701-800,swarthmore college,172-181,25.1
+763,701-800,taipei medical university,9-10,0.0
+764,701-800,taiyuan university of technology,91-106,0.0
+765,701-800,the education university of hong kong,6-7,0.0
+766,701-800,the graduate university for advanced studies,23-29,0.0
+767,701-800,the open university,47-50,0.0
+768,701-800,the royal veterinary college,47-50,0.0
+769,701-800,the university of waikato,6-7,0.0
+770,701-800,tokyo university of agriculture and technology,23-29,0.0
+771,701-800,tuscia university,32-36,0.0
+772,701-800,university of arkansas for medical sciences,172-181,0.0
+773,701-800,university of brasília,12-14,0.0
+774,701-800,university of castilla–la mancha,22-27,0.0
+775,701-800,university of chemistry and technology prague,4-5,0.0
+776,701-800,university of crete,4,0.0
+777,701-800,university of delhi,5-8,0.0
+778,701-800,university of hohenheim,47,0.0
+779,701-800,university of la laguna,22-27,0.0
+780,701-800,university of lleida,22-27,0.0
+781,701-800,university of luxembourg,1,0.0
+782,701-800,university of maribor,2,0.0
+783,701-800,university of modena and reggio emilia,32-36,0.0
+784,701-800,university of murcia,22-27,0.0
+785,701-800,university of navarra,22-27,0.0
+786,701-800,university of nevada-las vegas,172-181,0.0
+787,701-800,university of ontario institute of technology,22-25,0.0
+788,701-800,university of poitiers,28-29,11.2
+789,701-800,university of regina,22-25,0.0
+790,701-800,university of salerno,32-36,0.0
+791,701-800,university of sherbrooke,22-25,0.0
+792,701-800,university of southern queensland,28-30,0.0
+793,701-800,university of split,2,0.0
+794,701-800,university of texas at el paso,172-181,0.0
+795,701-800,university of veterinary medicine vienna,10,0.0
+796,701-800,university putra malaysia,5,0.0
+797,701-800,ural federal university,6,0.0
+798,701-800,yamagata university,23-29,0.0
+799,701-800,yokohama city university,23-29,0.0
+800,801-900,aberystwyth university,51-55,0.0
+801,801-900,anhui medical university,107-120,0.0
+802,801-900,ankara university,8-10,0.0
+803,801-900,babol noshirvani university of technology,8-10,0.0
+804,801-900,bohai university,107-120,0.0
+805,801-900,budapest university of technology and economics,3,9.7
+806,801-900,chemnitz university of technology,48-51,0.0
+807,801-900,chiang mai university,3-4,0.0
+808,801-900,china pharmaceutical university,107-120,0.0
+809,801-900,college of william and mary,182-192,0.0
+810,801-900,comenius university in bratislava,1,0.0
+811,801-900,concordia university,26,0.0
+812,801-900,cuny hunter college,182-192,12.5
+813,801-900,dongguk university,27-29,0.0
+814,801-900,ehime university,30-33,0.0
+815,801-900,federal university of ceara,15-18,0.0
+816,801-900,federal university of pernambuco,15-18,0.0
+817,801-900,federal university of rio grande do norte,15-18,0.0
+818,801-900,federal university of santa maria,15-18,0.0
+819,801-900,gachon university,27-29,0.0
+820,801-900,gazi university,8-10,0.0
+821,801-900,guangdong university of technology,107-120,0.0
+822,801-900,guizhou university,107-120,0.0
+823,801-900,hallym university,27-29,0.0
+824,801-900,hangzhou normal university,107-120,0.0
+825,801-900,haverford college,182-192,17.7
+826,801-900,indian institutes of science education and research (iisers),9-10,0.0
+827,801-900,iran university of science & technology,8-10,0.0
+828,801-900,isfahan university of technology,8-10,0.0
+829,801-900,istanbul technical university,8-10,0.0
+830,801-900,itmo university,7-10,0.0
+831,801-900,jawaharlal nehru university,9-10,0.0
+832,801-900,kazan (volga region) federal university,7-10,0.0
+833,801-900,keele university,51-55,0.0
+834,801-900,kumamoto university,30-33,0.0
+835,801-900,lincoln university,8,0.0
+836,801-900,liverpool school of tropical medicine,51-55,0.0
+837,801-900,london business school,51-55,0.0
+838,801-900,manchester metropolitan university,51-55,0.0
+839,801-900,mansoura university,4,0.0
+840,801-900,marche polytechnic university,37-42,0.0
+841,801-900,miguel hernandez university of elche,28-36,0.0
+842,801-900,nanjing forestry university,107-120,0.0
+843,801-900,nara institute of science and technology,30-33,0.0
+844,801-900,national sun yat-sen university,11,0.0
+845,801-900,national university of colombia,1,0.0
+846,801-900,national university of cordoba,3,0.0
+847,801-900,niigata university,30-33,0.0
+848,801-900,northeast normal university,107-120,0.0
+849,801-900,orebro university,12,0.0
+850,801-900,pablo de olavide university,28-36,0.0
+851,801-900,portland state university,182-192,0.0
+852,801-900,prince of songkla university,3-4,0.0
+853,801-900,quaid-i-azam university,2-4,0.0
+854,801-900,rutgers university-newark,182-192,0.0
+855,801-900,shandong university of science technology,107-120,0.0
+856,801-900,sichuan agricultural university,107-120,0.0
+857,801-900,singapore university of technology & design,3,0.0
+858,801-900,sultan qaboos university,1,0.0
+859,801-900,the national university of science and technology misis,7-10,0.0
+860,801-900,the university of akron,182-192,0.0
+861,801-900,tomsk state university,7-10,0.0
+862,801-900,uniformed services university of the health sciences - usa,182-192,0.0
+863,801-900,universidad andrés bello,3-4,0.0
+864,801-900,universite de tunis el manar,1,0.0
+865,801-900,university of agriculture faisalabad,2-4,0.0
+866,801-900,university of alicante,28-36,0.0
+867,801-900,university of arkansas at little rock,182-192,0.0
+868,801-900,university of augsburg,48-51,0.0
+869,801-900,university of cagliari,37-42,0.0
+870,801-900,university of calabria,37-42,0.0
+871,801-900,university of cantabria,28-36,0.0
+872,801-900,university of concepcion,3-4,0.0
+873,801-900,university of extremadura,28-36,0.0
+874,801-900,university of girona,28-36,0.0
+875,801-900,university of ioannina,5,0.0
+876,801-900,university of jaen,28-36,0.0
+877,801-900,university of jinan,107-120,0.0
+878,801-900,university of kassel,48-51,0.0
+879,801-900,university of klagenfurt,11,0.0
+880,801-900,university of malaga,28-36,0.0
+881,801-900,university of messina,37-42,0.0
+882,801-900,university of mississippi,182-192,0.0
+883,801-900,university of nice sophia antipolis,30-32,0.0
+884,801-900,university of orleans,30-32,0.0
+885,801-900,university of paderborn,48-51,0.0
+886,801-900,university of savoy,30-32,0.0
+887,801-900,university of south africa,8,14.8
+888,801-900,university of tennessee health science center,182-192,0.0
+889,801-900,university of the punjab,2-4,13.7
+890,801-900,university of the republic - uruguay,1,0.0
+891,801-900,university of the sunshine coast,31,0.0
+892,801-900,university of toledo,182-192,0.0
+893,801-900,university of udine,37-42,0.0
+894,801-900,university of urbino,37-42,0.0
+895,801-900,university of valladolid,28-36,0.0
+896,801-900,warsaw university of technology,6,0.0
+897,801-900,yanshan university,107-120,0.0
+898,801-900,yunnan university,107-120,0.0
+899,801-900,zhejiang normal university,107-120,0.0
+900,901-1000,all india institute of medical sciences,11-16,0.0
+901,901-1000,anhui agricultural university,121-132,0.0
+902,901-1000,anhui university,121-132,0.0
+903,901-1000,anna university,11-16,0.0
+904,901-1000,augusta university,193-206,0.0
+905,901-1000,banaras hindu university,11-16,0.0
+906,901-1000,beijing university of chinese medicine,121-132,0.0
+907,901-1000,bharathiar university,11-16,0.0
+908,901-1000,binghamton university,193-206,0.0
+909,901-1000,birkbeck university of london,56-61,0.0
+910,901-1000,bond university,32-33,0.0
+911,901-1000,chang'an university,121-132,0.0
+912,901-1000,changzhou university,121-132,0.0
+913,901-1000,city university london,56-61,0.0
+914,901-1000,city university new york - baruch college,193-206,0.0
+915,901-1000,clark university,193-206,0.0
+916,901-1000,czech university of life sciences prague,6-7,0.0
+917,901-1000,dalian maritime university,121-132,0.0
+918,901-1000,ecole normale super cachan,33-35,0.0
+919,901-1000,ege university,11-12,0.0
+920,901-1000,federal university of bahia,19-23,0.0
+921,901-1000,federal university of pará,19-23,0.0
+922,901-1000,federico santa maría technical university,5,0.0
+923,901-1000,fırat university,11-12,0.0
+924,901-1000,florida atlantic university,193-206,0.0
+925,901-1000,fluminense federal university,19-23,0.0
+926,901-1000,fujian medical university,121-132,0.0
+927,901-1000,guangxi university,121-132,0.0
+928,901-1000,guangzhou university,121-132,0.0
+929,901-1000,gwangju institute of science and technology,30-32,0.0
+930,901-1000,indian institute of technology roorkee,11-16,0.0
+931,901-1000,inje university,30-32,0.0
+932,901-1000,kagoshima university,34-43,0.0
+933,901-1000,kindai university,34-43,0.0
+934,901-1000,kunming university of science and technology,121-132,0.0
+935,901-1000,kyushu institute of technology,34-43,0.0
+936,901-1000,lakehead university,27-28,0.0
+937,901-1000,lappeenranta university of technology,8,0.0
+938,901-1000,lulea university of technology,13,0.0
+939,901-1000,medical university of silesia,7-9,0.0
+940,901-1000,middlesex university,56-61,0.0
+941,901-1000,nantong university,121-132,0.0
+942,901-1000,national chung hsing university,12-13,0.0
+943,901-1000,national polytechnic institute of toulouse,33-35,0.0
+944,901-1000,national research university higher school of economics,11,0.0
+945,901-1000,national taiwan university of science and technology,12-13,0.0
+946,901-1000,new jersey institute of technology,193-206,0.0
+947,901-1000,new mexico state university,193-206,0.0
+948,901-1000,nhh - norwegian school of economics,6,12.5
+949,901-1000,nicolaus copernicus university,7-9,0.0
+950,901-1000,nihon university,34-43,0.0
+951,901-1000,northumbria university,56-61,0.0
+952,901-1000,rio de janeiro state university,19-23,0.0
+953,901-1000,roma tre university,43-46,0.0
+954,901-1000,ryerson university,27-28,0.0
+955,901-1000,semmelweis university,4-5,0.0
+956,901-1000,shahid beheshti university,11-13,0.0
+957,901-1000,shandong normal university,121-132,0.0
+958,901-1000,shiraz university,11-13,0.0
+959,901-1000,shizuoka university,34-43,0.0
+960,901-1000,sofia university,1,0.0
+961,901-1000,sogang university,30-32,0.0
+962,901-1000,southern cross university,32-33,0.0
+963,901-1000,toho university,34-43,0.0
+964,901-1000,tokyo metropolitan university,34-43,0.0
+965,901-1000,ton duc thang university,1,0.0
+966,901-1000,union college,193-206,15.9
+967,901-1000,universidade federal de mato grosso do sul,19-23,0.0
+968,901-1000,university of alcalá,37-38,0.0
+969,901-1000,university of angers,33-35,0.0
+970,901-1000,university of bucharest,2,7.9
+971,901-1000,university of chieti-pescara,43-46,0.0
+972,901-1000,university of debrecen,4-5,0.0
+973,901-1000,university of denver,193-206,0.0
+974,901-1000,university of hull,56-61,0.0
+975,901-1000,university of ibadan,1,0.0
+976,901-1000,university of insubria,43-46,0.0
+977,901-1000,university of las palmas de gran canaria,37-38,0.0
+978,901-1000,university of los andes (colombia),2,0.0
+979,901-1000,university of massachusetts boston,193-206,0.0
+980,901-1000,university of mons,9,0.0
+981,901-1000,university of neuchatel,10,0.0
+982,901-1000,university of new orleans,193-206,0.0
+983,901-1000,university of north carolina at charlotte,193-206,0.0
+984,901-1000,university of novi sad,2,0.0
+985,901-1000,university of patras,6-7,0.0
+986,901-1000,university of salento,43-46,0.0
+987,901-1000,university of salzburg,12,0.0
+988,901-1000,university of south bohemia,6-7,0.0
+989,901-1000,university of stirling,56-61,0.0
+990,901-1000,university of tabriz,11-13,0.0
+991,901-1000,university of thessaly,6-7,0.0
+992,901-1000,university of toyama,34-43,0.0
+993,901-1000,university of yamanashi,34-43,11.2
+994,901-1000,vellore institute of technology,11-16,0.0
+995,901-1000,williams college,193-206,18.6
+996,901-1000,worcester polytechnic institute,193-206,0.0
+997,901-1000,wroclaw university of technology,7-9,0.0
+998,901-1000,yokohama national university,34-43,0.0
+999,901-1000,zagazig university,5,0.0
